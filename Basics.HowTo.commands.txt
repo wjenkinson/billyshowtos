@@ -1,0 +1,7 @@
+# very first installation - LX-Olivier2021
+# INRAE\William Jenkinson
+
+#to set up aliass (but I still need help with this)
+alias ovitopro='/home/billy/billy/ovito-pro-3.4.1-x86_64/bin/ovito&'
+unalias ovitopro #removes the alias
+
